@@ -290,6 +290,8 @@
 				DEVELOPMENT_TEAM = 3K3TL8WGPK;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Random Photo/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Random Photo";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.graphics-design";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -318,6 +320,8 @@
 				DEVELOPMENT_TEAM = 3K3TL8WGPK;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Random Photo/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Random Photo";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.graphics-design";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
